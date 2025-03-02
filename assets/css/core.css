@@ -114,3 +114,12 @@ span.metadata {
     color: #5a5454;
   }
 }
+/* Custom dark mode adjustments for menu and search bar - Using standard Google Dark Mode colors */
+body.theme--dark .site-nav,
+body.theme--dark .search-input {
+    background-color: #121212; /* Standard Google Dark Mode dark gray background */
+}
+body.theme--dark .site-nav a,
+body.theme--dark .search-input input {
+    color: #eee; /* Light gray text for good contrast (or try #fff for pure white) */
+}
