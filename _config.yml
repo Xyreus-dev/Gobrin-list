@@ -37,7 +37,7 @@ store:
   items:
     category: true
     weight: true
-    karma: true
+    karma: false
     quantity: true
     mod: true
     usage: true
