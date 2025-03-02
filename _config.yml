@@ -69,6 +69,7 @@ mods:
 
 # Build settings
 theme: type-on-strap
+color_theme: auto
 markdown: kramdown
 sass:
   style: compressed
