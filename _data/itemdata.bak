@@ -1221,12 +1221,12 @@
   },
   "EggBox": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 2,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": false,
@@ -2441,12 +2441,12 @@
   },
   "Skull": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 18,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": false,
@@ -2457,7 +2457,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "EggChickenUnfertilized": {
     "CustomName": null,
@@ -3577,7 +3577,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "Leather_Pig": {
     "CustomName": null,
@@ -8421,12 +8421,12 @@
   },
   "Genepack": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": false,
@@ -8941,12 +8941,12 @@
   },
   "PoluxSeed": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": false,
@@ -10629,7 +10629,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -10637,7 +10637,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "Meat_Thrumbo": {
     "CustomName": null,
@@ -11069,7 +11069,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11077,7 +11077,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "Meat_WasteRat": {
     "CustomName": null,
@@ -32747,7 +32747,7 @@
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "QuantityLimit": -1,
-    "Weight": 1.0,
+    "Weight": 12.0,
     "ResearchOverrides": null,
     "IsUsable": false,
     "IsEquippable": true,
@@ -32757,7 +32757,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Anomaly",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "Shard": {
     "CustomName": null,
@@ -33441,12 +33441,12 @@
   },
   "GauranlenSeed": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": false,
@@ -34237,7 +34237,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Ideology",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "SlabDoubleBed": {
     "CustomName": null,
@@ -53241,12 +53241,12 @@
   },
   "WVC_ResurgentSeed": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": false,
