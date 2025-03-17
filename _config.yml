@@ -1,12 +1,12 @@
 # Metadata
-title: "Lenzar's Purchase List"
+title: "GobrinSan's TTK Purchase List"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
-baseurl: '/PurchaseList' # the subpath of your site, e.g. /blog
+baseurl: '/Gobrin-list' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ''
-github_username: 'Lenzar86'
+twitter_username: 'GobrinSan'
+github_username: 'Xyreus-dev'
 
 # Item list settings
 #
